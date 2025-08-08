@@ -36,6 +36,15 @@ This project was created to:
 ![GitHub Stars](https://img.shields.io/github/stars/samiksha29-patil/object-oriented-contact-book?style=social)
 
 
+![Screenshot 14](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(14).png)
+![Screenshot 15](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(15).png)
+![Screenshot 16](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(16).png)
+![Screenshot 17](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(17).png)
+![Screenshot 18](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(18).png)
+![Screenshot 19](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(19).png)
+![Screenshot 20](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(20).png)
+![Screenshot 21](https://raw.githubusercontent.com/samiksha29-patil/python-contact-book-mysql/main/Screenshot%20(21).png)
+
 ## 📂 Project Structure
 
 # 📒 Contact Book (Python + MySQL)
