@@ -14,6 +14,13 @@ This program allows you to **add, view, search, update, and delete** contacts di
 - 💾 **MySQL Database Integration** – All data is stored persistently.
 
 ---
+## 🎯 Project Purpose
+This project was created to:
+- Practice **Python OOP concepts** (Classes, Objects, Methods)
+- Learn **data management** using lists & dictionaries
+- Create a **menu-driven CLI application**
+- Implement **CRUD operations** (Create, Read, Update, Delete)
+
 
 ## 🛠️ Technologies Used
 - **Python 3**
